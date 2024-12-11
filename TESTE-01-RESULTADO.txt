@@ -1,0 +1,8 @@
+Nome: Pedro Sanzio
+Convertido de: TESTE-01.txt
+Resultado: 
+
+4,125 4,125 6,750
+2,750 2,750 5,375
+1,250 1,750 4,375
+2,000 4,000 6,625

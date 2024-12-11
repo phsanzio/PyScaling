@@ -1,0 +1,8 @@
+Nome: Pedro Sanzio
+Convertido de: TESTE-03.txt
+Resultado: 
+
+65,250 65,250 105,750
+38,000 38,000 78,500
+38,000 38,000 78,500
+28,500 73,000 113,500
